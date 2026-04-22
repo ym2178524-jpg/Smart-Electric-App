@@ -1,0 +1,6 @@
+{
+  "name": "Smart Electric Fault Detector",
+  "description": "An AI-powered application specialized in diagnosing electrical faults for engineers, technicians, and students. Detect problems via text or images and access engineering calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
